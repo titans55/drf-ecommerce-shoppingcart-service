@@ -1,0 +1,10 @@
+{
+    "name": "Python: Django Debug Single Test",
+    "type": "python",
+    "request": "launch",
+    "program": "${workspaceFolder}/manage.py",
+    "args": [
+        "test"
+    ],
+    "django": true
+}
