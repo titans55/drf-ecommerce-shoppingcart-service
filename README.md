@@ -4,7 +4,7 @@ Tested ecommerce shoppingcart service created with django rest framework <br />
 Note: That project focuses on shopping cart and delivery cost calculation functionalities therefore endpoints are not implemented.
 
 ### Features
-- Ecommerce related models (Product, ProductCategory(Hierarchic), Coupon, Category)
+- Ecommerce related models (Product, ProductCategory(Hierarchic), Coupon, Campaign)
 - ShoppingCart
 - DeliveryCostCalculator
 
